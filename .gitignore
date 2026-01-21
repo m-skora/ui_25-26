@@ -1,0 +1,17 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Learning sets with their corresponding scores
+projekt/learningSets/*.txt
+projekt/scores/*.txt
